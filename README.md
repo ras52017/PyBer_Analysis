@@ -10,11 +10,11 @@ The results of this analysis show that:
 •	Urban cities generated the most rides with a total of 1625 rides while the Rural cities generated the least number of rides.
 •	Rural population averagely pays about $10 more than the population in the Urban cities and about $4 more than those in the Suburban cities
 
-![image](PyBer_Analysis/Weekly Sum of Fares.png at main · ras52017/PyBer_Analysis (github.com))
+![image](https://github.com/ras52017/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png))
 
-![image](PyBer_Analysis/Pyber Ride Summary.png at main · ras52017/PyBer_Analysis (github.com))
+![image](https://github.com/ras52017/PyBer_Analysis/blob/main/analysis/Weekly%20Sum%20of%20Fares.png))
 
-![image](PyBer_Analysis/PyBer_fare_summary.png at main · ras52017/PyBer_Analysis (github.com))
+![image](https://github.com/ras52017/PyBer_Analysis/blob/main/analysis/Pyber%20Ride%20Summary.png)
 
 
 
